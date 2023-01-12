@@ -1,4 +1,8 @@
-### Hi there 👋
+## Coding Activity over Last 7 Days:
+<img src="https://wakatime.com/share/@pigluz/92075491-4ef7-4cb2-a88a-05170200ba9b.svg" width="550px">
+
+## Languages over Last 7 Days:
+<img src="https://wakatime.com/share/@pigluz/c7cbc5c8-2f6c-4dd8-bd79-c11e1b0e6f52.svg" width="550px">
 
 <!--
 **pigluz/pigluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
