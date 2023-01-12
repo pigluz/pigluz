@@ -1,9 +1,11 @@
 
 <img src="https://wakatime.com/share/@pigluz/4d5a4f2f-3e64-42b7-bfb5-891f4bcc5733.svg" width="550px" alt="My Coding Activity"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigluz)](https://github.com/anuraghazra/github-readme-stats)
-
 [![pigluz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pigluz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigluz)](https://github.com/anuraghazra/github-readme-stats)
+![pigluz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pigluz&count_private=true)
+
+
 
 <!--
 **pigluz/pigluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
