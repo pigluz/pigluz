@@ -1,7 +1,6 @@
-## Coding Activity over Last 7 Days:
-<img src="https://wakatime.com/share/@pigluz/92075491-4ef7-4cb2-a88a-05170200ba9b.svg" width="550px">
 
-## Languages over Last 7 Days:
+<img src="https://wakatime.com/share/@pigluz/4d5a4f2f-3e64-42b7-bfb5-891f4bcc5733.svg" width="550px" alt="My Coding Activity"/>
+
 <img src="https://wakatime.com/share/@pigluz/c7cbc5c8-2f6c-4dd8-bd79-c11e1b0e6f52.svg" width="550px">
 
 <!--
