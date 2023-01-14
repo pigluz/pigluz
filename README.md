@@ -1,6 +1,6 @@
 ![pigluz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pigluz&count_private=true&theme=transparent&show_icons=true) <br>
 [![pigluz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pigluz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigluz&layout=compact&theme=transparent&line_height=300))](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigluz&layout=compact&theme=transparent&line_height=300)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
