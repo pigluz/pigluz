@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <h1 align="center"> Hey There! 👋 </h1>
 <p align="center">
   I'm pigla  <br> 
@@ -17,11 +17,10 @@
 [![knowlanguange](https://skillicons.dev/icons?i=ts,py,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Tools I use:
-[![tools](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev) 
-   <img src="./src/JetBrains_Rider_Icon.svg.png" height="45px"/>
+[![tools](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev) &nbsp;<img src="./src/JetBrains_Rider_Icon.svg.png" height="45px"/>
   
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary> Github Stats ⚡</summary>
 
   <a href="#">![pigluz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pigluz&layout=compact&theme=transparent&langs_count=6)
   <a href="#">![Top Langs](https://github-readme-stats-git-master-pigluz.vercel.app/api/top-langs/?username=pigluz&layout=compact&theme=transparent&card_width=450)
