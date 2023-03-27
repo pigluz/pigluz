@@ -12,7 +12,7 @@
 [![language](https://skillicons.dev/icons?i=html,css,js,cs)](https://skillicons.dev)
 
 ## What I want to learn:
-[![knowlanguange](https://skillicons.dev/icons?i=ts,py,bootstrap)](https://skillicons.dev)
+[![knowlanguange](https://skillicons.dev/icons?i=ts,py,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Tools I use:
 [![tools](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev) 
