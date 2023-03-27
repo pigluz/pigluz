@@ -7,7 +7,6 @@
 
 ## My stats:
 ![pigluz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pigluz&theme=transparent)<br>
-![pigluz's GitHub stats](https://github-readme-stats-git-master-pigluz.vercel.app/api?username=pigluz&count_private=true&theme=transparent&show_icons=true) <br>
 ![Top Langs](https://github-readme-stats-git-master-pigluz.vercel.app/api/top-langs/?username=pigluz&layout=compact&theme=transparent&line_height=300)
 
 
