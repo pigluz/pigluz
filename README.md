@@ -11,10 +11,10 @@
 </p>
   
 ## Languages I know:
-[![language](https://skillicons.dev/icons?i=html,css,js,cs)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=html,css,cs)](https://skillicons.dev)
 
 ## What I want to learn:
-[![knowlanguange](https://skillicons.dev/icons?i=ts,py,bootstrap,tailwind)](https://skillicons.dev)
+[![knowlanguange](https://skillicons.dev/icons?i=ts,js,py,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Tools I use:
 [![tools](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev) &nbsp;<img src="./src/JetBrains_Rider_Icon.svg.png" height="45px"/>
