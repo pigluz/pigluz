@@ -1,5 +1,4 @@
  <div align="center">
- <h1>fsqwerad</h1>
   <img src="./src/cat-spin2.gif" width="100px"/>
   <img src="./src/cat-spin1.gif" width="100px"/>
   <img src="./src/maxwell-cat.gif" width="100px" height="100px"/>
