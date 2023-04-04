@@ -1,10 +1,10 @@
- <div align="center">
+<!-- <div align="center">
   <img src="./src/cat-spin2.gif" width="100px"/>
   <img src="./src/cat-spin1.gif" width="100px"/>
   <img src="./src/maxwell-cat.gif" width="100px" height="100px"/>
  <br><br>
   <!--MORE CAT PHOTOS!!!!!!!!!!!!!!!!!!!!!!!-->
- 
+ <!--
  <p>learning full stack<p> 
  
 [![language](https://skillicons.dev/icons?i=html,css,js,cs,mysql,vscode,visualstudio)](https://skillicons.dev)&nbsp;<img src="./src/JetBrains_Rider_Icon.svg.png" height="45px"/><br>
@@ -29,4 +29,4 @@
 
 ## Tools I use:
 [![tools](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev) &nbsp;<img src="./src/JetBrains_Rider_Icon.svg.png" height="45px"/>
-  -->
+  --> 
