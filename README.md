@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/cat-spin2.gif" width="260px" height=100/>
+  <img src="./src/cart-rotate.gif" width="260px" height=100/>
   <img src="./src/cat-spin1.gif" width="260px" height=100/>
   <img src="./src/maxwell-cat.gif" width="260px" height="100px"/>
   <br>            
